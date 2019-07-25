@@ -1,0 +1,14 @@
+﻿INN 1 Key
+Key
+* Thin Rectangle on a wall: door
+* “S” on a wall: secret door
+* Large Rectangle: table
+* Large Thin Rectangle: bar
+* Rectangle with a “T” or “S” or both: table or shelve or table & shelves.
+* Circle: bar stool or chair
+* 4/5 Circle: chair next to/under table
+* Small filled Rectangle in a larger rectangle: fireplace/hearth
+* Dashed Line: railing
+* Many thin lines getting smaller: stairs
+* Filled Circle: toilet/privvy
+* Filled Triangle: wash basin
